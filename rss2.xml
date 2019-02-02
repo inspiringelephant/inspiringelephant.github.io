@@ -3,8 +3,8 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Inspiring Elephant 鼓舞的大象 | Chinese Learning and Teaching 中文学习与教学</title>
-    <link>http://yoursite.com/</link>
+    <title>Inspiring Elephant| Language Learning and Teaching</title>
+    <link>https://shermanhu.net/</link>
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
@@ -13,8 +13,8 @@
     
     <item>
       <title>Hello World</title>
-      <link>http://yoursite.com/2019/02/02/hello-world/</link>
-      <guid>http://yoursite.com/2019/02/02/hello-world/</guid>
+      <link>https://shermanhu.net/2019/02/02/hello-world/</link>
+      <guid>https://shermanhu.net/2019/02/02/hello-world/</guid>
       <pubDate>Sat, 02 Feb 2019 12:39:01 GMT</pubDate>
       <description>
       
@@ -28,7 +28,7 @@
       
       <content:encoded><![CDATA[<p>Hello, World!</p><p>Welcome to my new Wonderland. This blog serves as a place to store all my thoughts and ideas while I am studying and working.</p><p>你好，来自世界的朋友们！</p><p>欢迎来我全新的世界。 在我学习和工作之际，这个博客可以帮助我记录下我所有的想法。</p>]]></content:encoded>
       
-      <comments>http://yoursite.com/2019/02/02/hello-world/#disqus_thread</comments>
+      <comments>https://shermanhu.net/2019/02/02/hello-world/#disqus_thread</comments>
     </item>
     
   </channel>
