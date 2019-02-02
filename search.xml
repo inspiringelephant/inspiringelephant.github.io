@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2019%2F02%2F02%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Hello, World! Welcome to my new Wonderland. This blog serves as a place to store all my thoughts and ideas while I am studying and working. 你好，来自世界的朋友们！ 欢迎来我全新的世界。 在我学习和工作之际，这个博客可以帮助我记录下我所有的想法。]]></content>
+      <categories>
+        <category>Essay</category>
+      </categories>
+      <tags>
+        <tag>Beginning</tag>
+        <tag>Start</tag>
+      </tags>
+  </entry>
+</search>
